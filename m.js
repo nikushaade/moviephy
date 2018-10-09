@@ -1,3 +1,5 @@
+//comments
+
 //Creating a button click function to change the background
 function myFunction() {
     document.body.style.background = " url('6.jpg')";
